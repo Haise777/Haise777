@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Haise777
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning .NET and C#
-- 💞️ I’m looking to collaborate in future
-- 📫 How to reach me in Discord: Haise#9132
+I will work on some better readme latter, alas
+Im Haise, a beginner
+Currently learning and sharpening my .NET skills
+I do have high standards, so I'm working hard to code better and be a better programmer overall
+that's it :)
 
 <!---
 Haise777/Haise777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
