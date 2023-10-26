@@ -1,7 +1,7 @@
 - I will work on some better readme latter, alas
 - Im Haise, a beginner
 - Currently learning and sharpening my .NET skills
--I'm working hard to code better and be a better programmer overall
+- I'm working hard to code better and be a better programmer overall
 - that's it :)
 
 <!---
