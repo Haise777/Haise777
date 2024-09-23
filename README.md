@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,react,py,bash"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,py,bash"/>
 </p>
