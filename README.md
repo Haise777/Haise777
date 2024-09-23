@@ -7,7 +7,7 @@
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haise777&layout=donut&hide=shell,smalltalk&theme=tokyonight&hide_border=true&card_width=200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haise777&theme=tokyonight&card_height=215&card_width=400&hide_border=true" alt="haise777"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haise777&theme=tokyonight&card_height=215&card_width=450&hide_border=true" alt="haise777"/>
 </p>
 
 <p align="center">
