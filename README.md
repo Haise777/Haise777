@@ -1,10 +1,10 @@
 - **Haise**, a beginner
-- Currently sharpening my ASP.NET and Entity Framework skills
+- Currently working with SpringBoot
 - Please, feel free to contact me
   > Email: [gashimabucoro@proton.me](mailto:gashimabucoro@proton.me) &nbsp;&middot;&nbsp; Discord: [@.haise_san](https://discord.com/users/374337303897702401)
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,ts,py,bash"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,bash"/>
 </p>
 
 <p align="center">
