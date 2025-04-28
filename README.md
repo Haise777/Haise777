@@ -1,5 +1,5 @@
 - **Haise**, a beginner
-- Currently working with SpringBoot
+- Currently working as a Backend Web Developer with SpringBoot
 - Please, feel free to contact me
   > Email: [gashimabucoro@proton.me](mailto:gashimabucoro@proton.me) &nbsp;&middot;&nbsp; Discord: [@.haise_san](https://discord.com/users/374337303897702401)
 <br>
